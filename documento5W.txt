@@ -1,5 +1,6 @@
 documento d' analisi 5W
 why 
+finazzi
 where
 who 
 when 
