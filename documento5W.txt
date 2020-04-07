@@ -1,6 +1,6 @@
 documento d' analisi 5W
 why 
-finazzi
+finazzi e pettini
 where
 who 
 when 
